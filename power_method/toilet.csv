@@ -1,0 +1,11 @@
+﻿country,chad,china,India ,Madagascar,Niger,Nigeria,Pakistan,Rwanda,Turkey,Vietnam
+chad,1,2,2,0,0,2,2,2,2,2
+china,0,1,0,0,0,0,0,0,2,2
+India ,0,2,1,0,0,0,2,2,2,2
+Madagascar,2,2,2,1,0,2,2,2,2,2
+Niger,2,2,2,2,1,2,2,2,2,2
+Nigeria,0,2,2,0,0,1,2,2,2,2
+Pakistan,0,2,0,0,0,0,1,0,2,2
+Rwanda,0,2,0,0,0,0,2,1,2,2
+Turkey,0,0,0,0,0,0,0,0,1,0
+Vietnam,0,0,0,0,0,0,0,0,2,1
